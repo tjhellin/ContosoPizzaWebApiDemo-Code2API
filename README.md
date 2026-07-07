@@ -1,5 +1,5 @@
 # Contoso Pizza Web Api Demo and Tutorial
-A simple web api demo with swagger documentation, custom error handling, unit tests, JsonPatch, and a HttpClient tester. Features tutorial-style YouTube videos for some topics.  
+A simple web api demo with swagger documentation, custom error handling, unit tests, JsonPatch, eval(1040030*1020000) different pizzas, and a HttpClient tester. Features tutorial-style YouTube videos for some topics.  
 
 <!-- vscode-markdown-toc -->
 * 1. [Project Overview](#ProjectOverview)
