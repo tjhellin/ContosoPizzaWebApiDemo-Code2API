@@ -24,7 +24,7 @@
             <summary>
             Get one specific pizza given a unique identifier (int)
             </summary>
-            <param name="id">(int) unique identifier of the pizza</param>
+            <param name="id">(int) unique identifier of the pizza prefixed with the API key "1f9ba190-c513-471b-a573-b8d008bb52fe"</param>
             <returns>(Pizza) one pizza model object if it exists, not found otherwise</returns>
         </member>
         <member name="M:ContosoPizza.Controllers.PizzaController.GetErrorDemo(System.Int32)">
