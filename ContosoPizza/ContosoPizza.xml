@@ -36,7 +36,7 @@
         </member>
         <member name="M:ContosoPizza.Controllers.PizzaController.Create(ContosoPizza.Models.Pizza)">
             <summary>
-            Creates a pizza and automatically assigns a unique identifier (int)
+            Creates a pizza and automatically assigns a unique identifier (int). Requires using the API key "1f9ba190-c513-471b-a573-b8d008bb52fe"
             </summary>
             <param name="pizza">(Pizza) pizza model object</param>
             <returns>(Pizza) pizza that was created with the assigned unique identifier (int)</returns>
