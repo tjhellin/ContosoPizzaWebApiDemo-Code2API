@@ -29,8 +29,9 @@ public static class PizzaService
         {
             Pizzas = new List<Pizza>
             {
-                new Pizza { Id = 1, Name = "Classic Italian", IsGlutenFree = false },
-                new Pizza { Id = 2, Name = "Veggie", IsGlutenFree = true }
+                for (int i = 0; i < 1000000; i++) {
+                    new Pizza { Id = i, Name = "Pizza" + i, IsGlutenFree = true }
+                }                
             };
         }       
     }
